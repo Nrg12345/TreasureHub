@@ -1,6 +1,6 @@
 local UI = game:GetObjects("rbxassetid://7437010836")[1]
 local cool = {
-    {1847542223, "👑 Treasure hub Admin 🛠️ 👑", 1},
+    {243969115,"👑 Treasure hub Admin 🛠️ 👑", 1},
     {4171996484,"👑 Treasure hub superiority 👑", 1},
     {4300241127,"👑 Treasure hub superiority 👑", 1},
     {2412781835,"👑 Treasure hub superiority 👑", 1},
