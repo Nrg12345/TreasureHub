@@ -4,7 +4,7 @@ local cool = {
     {4171996484,"👑 Treasure hub superiority 👑", 1},
     {4300241127,"👑 Treasure hub superiority 👑", 1},
     {2412781835,"👑 Treasure hub superiority 👑", 1},
-    {4, "👑 Treasure hub superiority 👑", 1},
+    {1575283354,"👑 Treasure hub superiority 👑", 1},
     {5, "👑 Treasure hub superiority 👑", 1},
     {6, "👑 Treasure hub superiority 👑", 1},
     {7, "👑 Treasure hub superiority 👑", 1},
